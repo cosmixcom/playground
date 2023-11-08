@@ -4,10 +4,6 @@
     "doc": "index"
   },
   {
-    "name": "About",
-    "doc": "about"
-  },
-  {
     "name": "Development",
     "doc": "README"
   }],
