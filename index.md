@@ -9,3 +9,9 @@ View the Docs [here](./Development).
 ## Creators
 
 Carbon was created by @cosmixcom and @champsheard
+
+## Updates
+
+Signup for updates here:
+
+<carbonEmail data-name="docsForm"></carbonEmail>
