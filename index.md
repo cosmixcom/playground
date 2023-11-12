@@ -4,4 +4,8 @@ Thanks for choosing Carbon to make your site. We know there are a lot of choices
 
 Carbon now supports MarkdownX.
 
-View the Docs [here](/Development).
+View the Docs [here](./Development).
+
+## Creators
+
+Carbon was created by @cosmixcom and @champsheard
