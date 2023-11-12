@@ -6,6 +6,9 @@
   {
     "name": "Development",
     "doc": "README"
+  },{
+    "name": "Custom Elements",
+    "doc": "custom"
   }],
   "logo": "carbon.png",
   "action": {
