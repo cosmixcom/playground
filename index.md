@@ -15,3 +15,5 @@ Carbon was created by @cosmixcom and @champsheard
 Signup for updates here:
 
 <carbonEmail data-name="docsForm"></carbonEmail>
+
+<googleAnalytics data-tag="G-XJV1Z34Z2K"></googleAnalytics>
