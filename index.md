@@ -8,7 +8,7 @@ View the Docs [here](./Development).
 
 ## Creators
 
-Carbon was created by @cosmixcom and @champsheard
+Carbon was created by <a href="//github.com/@cosmixcom">@CosmixCom</a> and <a href="//github.com/@champsheard">@champsheard</a>
 
 ## Updates
 
