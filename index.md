@@ -17,3 +17,5 @@ Signup for updates here:
 <carbonEmail data-name="docsForm"></carbonEmail>
 
 <googleAnalytics data-tag="G-XJV1Z34Z2K"></googleAnalytics>
+
+For support contact us at <a href="mailto:info@toggled.tech">info@toggled.tech</a>.
