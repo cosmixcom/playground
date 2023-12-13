@@ -10,7 +10,7 @@ Create a mailing list signup which will display on your dashboard.
 
 You can have multiple of these on each page.
 
-Nickname will be displayed on your dashboard so you which forms are converting.
+Nickname will be displayed on your dashboard so you can see which forms are converting users to subscribers.
 
 ## Analytics
 
