@@ -23,3 +23,5 @@ Use Google Analytics in your project.
 Only one element per page is supported.
 
 Keep in mind that Carbon will soon have built-in analytics.
+
+<spline3D data-design="https://prod.spline.design/Iu9kNCw-o9kUZfGj/scene.splinecode"></spline3D>
