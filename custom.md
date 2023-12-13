@@ -17,7 +17,7 @@ Nickname will be displayed on your dashboard so you can see which forms are conv
 Use Google Analytics in your project.
 
 ```html
-<googleAnalytics data-tag="<YOUR ANALYTICS ID>"></googleAnalytics>
+<googleAnalytics data-tag="<YOUR ANALYTICS MEASUREMENT ID>"></googleAnalytics>
 ```
 
 Only one element per page is supported.
