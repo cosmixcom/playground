@@ -24,4 +24,4 @@ Only one element per page is supported.
 
 Keep in mind that Carbon will soon have built-in analytics.
 
-<spline-viewer url="[${e.dataset.design}](https://prod.spline.design/Iu9kNCw-o9kUZfGj/scene.splinecode)https://prod.spline.design/Iu9kNCw-o9kUZfGj/scene.splinecode"></spline-viewer>
+<spline-viewer url="https://prod.spline.design/Iu9kNCw-o9kUZfGj/scene.splinecode"></spline-viewer>
