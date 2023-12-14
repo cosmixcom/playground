@@ -12,6 +12,9 @@ You can have multiple of these on each page.
 
 Nickname will be displayed on your dashboard so you can see which forms are converting users to subscribers.
 
+### DEMO
+<carbonEmail data-name="DEMO"></carbonEmail>
+
 ## Analytics
 
 Use Google Analytics in your project.
@@ -27,14 +30,17 @@ Keep in mind that Carbon will soon have built-in analytics.
 
 <design data-layout="3D" data-type="spline" data-url="https://prod.spline.design/Iu9kNCw-o9kUZfGj/scene.splinecode"></design>
 
-## Analytics
+## Carbon Designs
 
-Use Google Analytics in your project.
+To import designs from external websites such as Canva, Spline Etc. in Carbon, you must use the design manager. (If you try to use the js libraries from these providers they will not work in Carbon to prevent xss)
 
 ```html
-<googleAnalytics data-tag="<YOUR ANALYTICS MEASUREMENT ID>"></googleAnalytics>
+<design data-layout="3D" data-type="spline" data-url="https://prod.spline.design/Iu9kNCw-o9kUZfGj/scene.splinecode"></design>
 ```
 
-Only one element per page is supported.
+data-layout: 3D or 2D
+data-type: Type of design. (E.g. Spline) *
+data-url: CND/Embed URL of design *
 
-Keep in mind that Carbon will soon have built-in analytics.
+### DEMO
+<design data-layout="3D" data-type="spline" data-url="https://prod.spline.design/Iu9kNCw-o9kUZfGj/scene.splinecode"></design>
