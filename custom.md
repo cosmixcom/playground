@@ -31,6 +31,8 @@ Keep in mind that Carbon will soon have built-in analytics.
 
 To import designs from external websites such as Canva, Spline Etc. in Carbon, you must use the design manager. (If you try to use the js libraries from these providers they will not work in Carbon to prevent xss)
 
+Below is an example for Spline.
+
 ```html
 <design data-layout="3D" data-type="spline" data-url="https://prod.spline.design/Iu9kNCw-o9kUZfGj/scene.splinecode"></design>
 ```
