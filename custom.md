@@ -35,9 +35,9 @@ To import designs from external websites such as Canva, Spline Etc. in Carbon, y
 <design data-layout="3D" data-type="spline" data-url="https://prod.spline.design/Iu9kNCw-o9kUZfGj/scene.splinecode"></design>
 ```
 
-data-layout: 3D or 2D
-data-type: Type of design. (E.g. Spline) *
-data-url: CND/Embed URL of design *
+data-layout: 3D or 2D <br>
+data-type: Type of design. (E.g. Spline) * <br>
+data-url: CND/Embed URL of design * <br>
 
 ### DEMO
 <design data-layout="3D" data-type="spline" data-url="https://prod.spline.design/Iu9kNCw-o9kUZfGj/scene.splinecode"></design>
