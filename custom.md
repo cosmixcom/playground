@@ -25,4 +25,4 @@ Only one element per page is supported.
 Keep in mind that Carbon will soon have built-in analytics.
 
 
-<3D type="spline" url="https://prod.spline.design/Iu9kNCw-o9kUZfGj/scene.splinecode"></3D>
+<design type="spline" url="https://prod.spline.design/Iu9kNCw-o9kUZfGj/scene.splinecode"></design>
