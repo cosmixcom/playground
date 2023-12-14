@@ -24,5 +24,5 @@ Only one element per page is supported.
 
 Keep in mind that Carbon will soon have built-in analytics.
 
-<script type="module" src="https://unpkg.com/@splinetool/viewer@0.9.523/build/spline-viewer.js"></script>
-<spline-viewer url="https://prod.spline.design/Iu9kNCw-o9kUZfGj/scene.splinecode"></spline-viewer>
+
+<3D type="spline" url="https://prod.spline.design/Iu9kNCw-o9kUZfGj/scene.splinecode"></3D>
