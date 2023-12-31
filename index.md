@@ -1,3 +1,5 @@
+<!-- raw HTML: start -->
+<div>
 <section class="hero">
         <h1>Your One-Stop Shop for Every Pet's Needs!</h1>
         <div class="btn-group">
@@ -90,5 +92,6 @@
             </li>
         </ul>
     </section>
-    
+</div>
+<!-- raw HTML: end -->
 <design data-layout="unspecified" data-type="youtube" data-video="yw6i1SAHetc">
