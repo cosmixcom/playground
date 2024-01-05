@@ -2,8 +2,8 @@
 name: Test
 ---
 
-import { Hi, Hello } from 'https://516308b4-9a1c-4ced-b001-c38cbae51423-00-878de4e7qwep.hacker.replit.dev/static/objects.js'
+import { Hi, Zymono } from 'zymono'
 
 <Hi></Hi>
 
-<Hello></Hello>
+<Zymono></Zymono>
