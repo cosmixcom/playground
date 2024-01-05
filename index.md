@@ -1,3 +1,6 @@
+---
+name: Playground
+---
 <!-- raw HTML: start -->
 <div>
 <section class="hero">
