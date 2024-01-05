@@ -1,3 +1,6 @@
+---
+name: Toggled Mail
+---
 # Getting Started With Carbon
 
 ### Fork this Template
