@@ -20,5 +20,6 @@
     "copyright": "Toggled.tech",
     "URL": "//toggled.tech"
   },
-  "members": ["cosmixcom", "champsheard"]
+  "members": ["cosmixcom", "champsheard"],
+  "ext": "md"
 }
