@@ -3,17 +3,6 @@ name: Playground
 ---
 <!-- raw HTML: start -->
 <div>
-<section class="hero">
-        <h1>Your One-Stop Shop for Every Pet's Needs!</h1>
-        <div class="btn-group">
-            <button class="btn-filled-dark"><span class="material-symbols-outlined">
-                    shopping_cart
-                </span>Shop All Products</button>
-            <button class="btn-outline-dark btn-hover-color"><span class="material-symbols-outlined">
-                    calendar_month
-                </span> Book a Service</button>
-        </div>
-    </section>
     <section>
         <h2>Shop by Pet</h2>
         <ul class="shop-pets">
